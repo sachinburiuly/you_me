@@ -1,0 +1,216 @@
+body{
+    padding:0;
+    margin:0;
+}
+@keyframes animation{
+    from{
+        
+    }
+    to{
+       
+  
+
+    }
+}
+#any{
+    width:2000px;
+    height:800px;
+    position: relative;
+  
+}
+#any img{
+    width:50px;
+    height:50px;
+    border-radius: 50px;
+    position: absolute;
+    padding-top:350px;
+   
+ 
+    
+}
+#any1{
+    width:100px;
+    height:400px;
+    background: rgb(158, 255, 160);
+
+
+    margin-top:400px;
+    
+    float: left;
+
+}
+#any2{
+    width:100px;
+    height:400px;
+    background: rgb(1, 255, 5);
+   margin-top:0;
+   margin-top:400px;
+
+ 
+    
+    float: left;
+
+}
+#any3{
+    width:100px;
+    height:400px;
+    background: rgb(255, 0, 204);
+   margin-top:400px;
+
+    
+    float: left;
+
+}
+#any4{
+    width:100px;
+    height:400px;
+    background: rgb(3, 13, 4);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any5{
+    width:100px;
+    height:400px;
+    background: rgb(30, 7, 240);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any6{
+    width:100px;
+    height:400px;
+    background: rgb(255, 158, 244);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any7{
+    width:100px;
+    height:400px;
+    background: rgb(79, 252, 243);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any8{
+    width:100px;
+    height:400px;
+    background: rgb(158, 255, 160);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any9{
+    width:100px;
+    height:400px;
+    background: rgb(239, 248, 240);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any10{
+    width:100px;
+    height:400px;
+    background: rgb(246, 250, 21);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any11{
+    width:100px;
+    height:400px;
+    background: rgb(29, 178, 232);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any12{
+    width:100px;
+    height:400px;
+    background: rgb(8, 108, 10);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any13{
+    width:100px;
+    height:400px;
+    background: rgb(3, 42, 4);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any14{
+    width:100px;
+    height:400px;
+    background: rgb(15, 6, 101);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any15{
+    width:100px;
+    height:400px;
+    background: rgb(78, 7, 47);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any16{
+    width:100px;
+    height:400px;
+    background: rgb(128, 123, 3);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any17{
+    width:100px;
+    height:400px;
+    background: rgb(77, 55, 73);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any18{
+    width:100px;
+    height:400px;
+    background: rgb(69, 91, 118);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any19{
+    width:100px;
+    height:400px;
+    background: rgb(249, 168, 255);
+   margin-top:400px;
+    
+    float: left;
+
+}
+#any20{
+    width:100px;
+    height:400px;
+    background: rgb(11, 142, 13);
+   margin-top:400px;
+    
+    float: left;
+
+}
